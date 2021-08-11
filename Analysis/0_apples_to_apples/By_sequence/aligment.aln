@@ -1,0 +1,21 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+pdb1 ------------------NMLTSFCGALHVC----------------------------- 13
+pdb2 LPLDVNVVALLMNRTDPKSLITHVCDLMSGARIHGLVFGDDTDQEAVAQMLDFISSHTFV 60
+                       .::* .*. :  .                             
+
+pdb1 -----------FITPSFPVDTSNQFVLQLRPELQDALISIIDHYKWQKFVYIYDADRGLS 62
+pdb2 PILGIHGGASMIMADKDPTSTFFQFGASI-QQQATVMLKIMQDYDWHVFSLVTTIFPGYR 119
+                ::: . *..*  **  .:  :   .::.*::.*.*: *  :     *  
+
+pdb1 VLQKVLDTA---AEKNWQVTAVNILTTTEEGYRMLFQDLEKKKERLVVVDCESERLNAIL 119
+pdb2 EFISFVKTTVDNSFVGWDMQNVITLDTSFEDAKTQ-VQLKKIHSSVILLYCSKDEAVLIL 178
+      : ..:.*:   :  .*::  *  * *: *. :    :*:* :. :::: *..:.   **
+
+pdb1 GQIIKLEKNGIGYHYILANLGFMDIDLNKFKESGANVTGFQLVNYTDTIPAKIMQQWKNS 179
+pdb2 SEARSLGLTGYDFFWIVPSLVSGNTELIP-------------KEFPSGLISVSYDDWDYS 225
+     .:  .*  .* .:.:*: .*   : :*                :: . : :   ::*. *
+
+pdb1 DARDHTRVDWKRPKYTSALTYDGVKVMAEAFQSLRRQRIDISRRGNAGDCLANPAVPWG 238
+pdb2 LE---------------ARVRDGIGILTTAASSMLEKFSYIP--EAKASCYGQMER--- 264
+                      * . **: ::: * .*: .:   *      ..* .:      
